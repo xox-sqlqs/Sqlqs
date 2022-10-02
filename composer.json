@@ -1,0 +1,23 @@
+{
+    "name": "xox/sqlqs",
+    "description": "Xox Select Repository Sqlqs module",
+    "type": "magento2-module",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "Xox",
+            "email": "xox.sqlqs@gmail.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/xox-sqlqs/Sqlqs/issues"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Xox\\Sqlqs\\": ""
+        }
+    }
+}
