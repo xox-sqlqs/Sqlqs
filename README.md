@@ -9,10 +9,10 @@
 - Store owners can save SQL queries in backend and generate reports when required.
 - SQL query can be executed by schedule. The result will been send to email.
 
-![](https://github.com/xox-sqlqs/Sqlqs/image/01-grid-action.png)
+![](https://github.com/xox-sqlqs/Sqlqs/blob/main/image/01-grid-action.png)
 
-![](https://github.com/xox-sqlqs/Sqlqs/image/02-grid-sqlqs.png)
+![](https://github.com/xox-sqlqs/Sqlqs/blob/main/image/02-grid-sqlqs.png)
 
-![](https://github.com/xox-sqlqs/Sqlqs/image/03-edit.png)
+![](https://github.com/xox-sqlqs/Sqlqs/blob/main/image/03-edit.png)
 
-![](https://github.com/xox-sqlqs/Sqlqs/image/04-result.png)
+![](https://github.com/xox-sqlqs/Sqlqs/blob/main/image/04-result.png)
